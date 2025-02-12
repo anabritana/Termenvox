@@ -10,15 +10,11 @@ Termenvox, based on photoresistors is a musical instrument, which can produce so
 ## Construction of the instrument
 
 | Cicuit overview |
-| --- |
-| ![curcuit overview]() |
+| ![curcuit overview](Снимок экрана 2025-01-23 в 15.05.14.png) |
 
 
 | Desing overview |
-| --- |
 | ![design overview](IMG_2967.jpeg) |
-| --- |
 | ![design overview](IMG_2968.jpeg) |
-| --- |
 | ![design overview](IMG_2969.jpeg) |
 
