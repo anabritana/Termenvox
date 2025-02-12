@@ -1,4 +1,4 @@
-# Termenvox,  ased on photoresistors
+# Termenvox,  based on photoresistors
 
 ## Author:
 Anastasiia Britan
