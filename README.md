@@ -28,9 +28,13 @@ All the electronic components, used in this project:
 
 I also used some metallic constructions to make this instrument more durable, because electronic compotents are quite fragile.
 
+## How it works?
 
+By commands map and tone we can set a range of frequencies, assosiated with different amounts of light around photoresistors. Then Arduino sums those frequencies and the sygnals goes to the piezo dynamic. I used the range of 50 to 100 Hz for every photoresistor, so the overall range goes from 200 to 400 Hz.
 
+## Results
 
+The instrument works properly, but the sounds are horrible. I do not think that we can consider that as a music...
 
 
 ## Sourses:
